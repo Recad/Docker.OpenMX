@@ -18,3 +18,4 @@
  libopenmpi-dev \
  openmx
  
+ ADD Methane.dat /
