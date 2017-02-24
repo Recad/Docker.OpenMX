@@ -5,7 +5,7 @@
 #liblapack3
 #fftw3
 #librerias openmpi
-# openmx
+#openmx
 
  RUN apt-get update && apt-get -y install \
  liblapack3 \
